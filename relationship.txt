@@ -1,0 +1,7 @@
+Schema
+
+1 to 1 - Items to ItemCategoryXref - every item belongs to exactly one category
+
+1 to many - Customers to Orders - one customer to many orders
+
+Many to many - Categories to itself - One category can have many parent categories and many sub-categories
